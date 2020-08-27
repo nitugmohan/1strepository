@@ -8,5 +8,5 @@ I have a little brother and a dog named Loki. I enjoy reading, running, and cook
 
 # Responses
 
-[8/25 Human Development Response](Blumenstock.md)  
+[8/25 Human Development Response](Blumenstock.md)     
 [8/27 Hans Rosling "The best stats you've ever seen" Response](Rosling_Response.md)

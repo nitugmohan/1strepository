@@ -1,4 +1,4 @@
-##Rosling Response
+# 8/27 Hans Rosling "The best stats you've ever seen" Response
 
  
 In Hans Rosling’s Tedx Talk, The best stats you’ve ever seen, Rosling discusses trends in health and economy for the world. Within the talk, Rosling reveals how the generalization of data can change one's perception of the world (his students in Sweden). With their perception of the so-called “split” in the world, they failed to realize that such a split is not as great as it is made to be. When he spoke about the countries within Africa, there is such a range in between and within countries, that using the same strategies for all will not work. “The improvement of the world must be highly contextualized.” Only with that high level of contextualization can countries reach heights (of the graph). Rosling emphasizes that it is “dangerous to use average data.” The average eliminates certain countries' individual needs or resources. This perception is one I had recently held myself until a course I took my senior year of high school highlighted similar inconsistencies for me. 

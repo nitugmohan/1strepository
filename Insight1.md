@@ -6,9 +6,11 @@
   But disaster response is not the only field this method is being applied to. It is being used to predict and model traffic monitoring, commuting patterns, and the spread of infectious diseases such as cholera and ebola.     
   I think that this type of data method can be quite helpful no matter the situation. Whether that be a disaster or simply traveling, it can provide a lot of insight into how people move and how we can make that more efficient. In India, my family had to relocate due to intense flooding, and I'm wondering if an increase in this type of method could help people take preventive measures to be prepared for natural disasters. 
 
-References:
-Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Schreeb, J. (2011, August 30). Improved Response to Disasters and Outbreaks by Tracking Population Movements with Mobile Phone Network Data: A Post-Earthquake Geospatial Study in Haiti. Retrieved September 16, 2020, from https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1001083
-Gething, P., & Tatem, A. (2011, August 30). Can Mobile Phone Data Improve Emergency Response to Natural Disasters? Retrieved September 08, 2020, from https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001085
+References:  
+Bengtsson, L., Lu, X., Thorson, A., Garfield, R., & Schreeb, J. (2011, August 30). Improved Response to Disasters and Outbreaks by Tracking Population Movements with Mobile Phone Network Data: A Post-Earthquake Geospatial Study in Haiti. Retrieved September 16, 2020, from https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1001083  
+
+Gething, P., & Tatem, A. (2011, August 30). Can Mobile Phone Data Improve Emergency Response to Natural Disasters? Retrieved September 08, 2020, from https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001085   
+
 Wilson, R., Erbach-Schoenberg, E., Albert, M., Power, D., Tudge, S., Gonzalez, M., . . . Bengtsson, L. (2016, February 24). Rapid and Near Real-Time Assessments of Population Displacement Using Mobile Phone Data Following Disasters: The 2015 Nepal Earthquake. Retrieved September 15, 2020, from http://currents.plos.org/disasters/article/rapid-and-near-real-time-assessments-of-population-displacement-using-mobile-phone-data-following-disasters-the-2015-nepal-earthquake/
 
 	

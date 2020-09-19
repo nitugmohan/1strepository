@@ -3,7 +3,7 @@ Nitu Girish Mohan
 
 Word Count: 2,208 
 
-[Google Docs Link]
+[Google Docs Link](https://docs.google.com/document/d/1SbpM4C6ij7Absx_v0tt9Uj-fzKs0BlvZ3Q8eAI_KCZE/edit?usp=sharing)
 
 Gething, P., & Tatem, A. (2011, August 30). Can Mobile Phone Data Improve Emergency Response to Natural Disasters? Retrieved September 08, 2020, from https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001085 
 

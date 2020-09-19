@@ -12,3 +12,4 @@ I have a little brother and a dog named Loki. I enjoy reading, running, and cook
 [8/27 Hans Rosling "The best stats you've ever seen" Response](Rosling_Response.md)    
 [9/3 Rosling & Sen Q&A](IntroResponse.md)      
 [9/17 Human Development & Data Science Insights](Insight.md)
+[9/19 Assignment 1](Assignment1.md)

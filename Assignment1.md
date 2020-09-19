@@ -3,6 +3,8 @@ Nitu Girish Mohan
 
 Word Count: 2,208 
 
+[Google Docs Link]
+
 Gething, P., & Tatem, A. (2011, August 30). Can Mobile Phone Data Improve Emergency Response to Natural Disasters? Retrieved September 08, 2020, from https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001085 
 
 The problem that this article is seeking to address is helping find displaced people after physical disasters. The current methods, including transport surveys and “manual registration of individuals at emergency-relief hubs,” are often unreliable. While these methods are valuable for record-keeping, they are inadequate at working efficiently during the aftermath of a disaster. Furthermore, these methods can exclude certain groups which can form a bias in the data. This bias creates a lower chance of survival and rescue for women, poor, rural, young, and elderly. These groups can also be misrepresented due to uncertain mobile phone ownership levels. The article clearly emphasizes that the method of tracking and using cell phone data is highly relevant and efficient. 
@@ -38,6 +40,7 @@ When looking at donations, organizations such as the Red Cross and UNICEF worked
 Furthermore, the article goes to address how companies aided Nepal with the use of their data networks and Big Data. One example that the article listed was UPS activating their Logistics Emergency Team; this helped provide data in terms of shipping and distributions. It helped Nepal manage infrastructure when their transport system had been heavily damaged. Another example that the article looked at was Facebook. They activated their Safety Check which allowed people to post their status of safety. This allowed loved ones and friends from around the world to gain some peace of mind. Furthermore, it helped in the allocation of resources where they were most needed. Google also used its Person Finder. This allowed people to post about affected individuals. It took this data and created a database containing the status of victims around the country. As the article explains, these companies were able to use Big Data to provide more assistance and support to the individuals affected. These initiatives gave the population protective security and transparency guarantees. This helps push for a long and healthy life. 
 Many volunteers, especially those associated with the Humanitarian OpenStreetMap Team and the Open Cities Project of Kathmandu Living Labs, utilized satellite imagery to provide more insight on where emergency responders were needed immediately. 
 The author concludes that "the partnership of physical and digital resources is essential to an effective disaster recovery." By using Big Data, businesses were able to provide more timely and effective aid to those affected by the earthquake, Through monetary and service aid, data in humanitarian efforts help accelerate disaster response and management. 
+
 
 
 

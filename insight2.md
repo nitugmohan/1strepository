@@ -1,3 +1,4 @@
+# 10/15 Human Development & Data Science Insights  
 As global warming increases, ecological effects are seen more frequently and with larger impacts, especially in correlation to rising sea levels. Flooding, one of these effects, can have major consequences on infrastructure and coastal ecosystems. "75% of coastal regions" are highly vulnerable to major flooding events. Also, since these effects are only being acknowledged quite recently, there is a lack of maintenance and updating in preparation for flooding. It was shown that "coastal flood losses could exceed the UD $1 trillion annually." Models have further shown that "up to 50 million additional people" could be at risk for flooding than those counted in 1990 figures.     
 
 The main way some organizations have looked at for coastal flood risk assessments is known as the Source-Pathway-Receptor-Consequences framework.  This method looks to describe the interplay between floods (surges, waves, rain, etc.), defenses (coastal ecosystems), and those at risk (residential areas, city infrastructure, etc.). They use these factors to try and predict some of the consequences of the flood. The data used for this method was taken from a grouped set of datasets that deal with coastal flooding called "SurgeWatch"; this data set was used in the United Kingdom under the "Open Data Initiative" (provides geospatial data for public use). Along with that researchers were able to use "coastal aerial photography, Light Detection and Ranging (LiDAR) and bathymetric data from data archives." They applied "synthesis and harmonization techniques" to understand the severity of predicted floods and consequences to prepare for.     
@@ -6,14 +7,16 @@ Another method that was looked at utilized Integrating process-based modeling an
 
 One method I found pretty interesting is the "natural language processing of social media." The analysis of tweets posted amid a flood in the UK, US, Pakistan, and the Philippines have helped emergency responders understand the severity and statistics of the flood. This is due to the "temporal (immediate) and spatial (geotagging) relation" of Twitter data. This method has obvious potential for future flooding. The way it works is that "natural language processing" finds certain words that can highlight quantitative data that might otherwise be hard to collect during a flood.  
 
-![](figure2.png)
+<p align="center">
+  <src="figure2.png">
+</p>
  
 Another thing that I found interesting is the Forecasters' Dilemma. This considers the "trade-off" between finding and analyzing data and the need for timely and accurate predictions. As more time is spent analyzing and understanding the data, the more reliable a final output can be, such as evacuation or stay at home order. Though, this can also increase the time in which this decision is too late to take adequate effect. But, if less time is taken and a "false warning" is put out, this can damage trust between society and forecasters; it can lead to a loss of transparency guarantees. This lack of trust can cause problems when decisions are not taken seriously.       
 
 Floods are becoming more and more frequent and lethal as sea-levels rise. Reliable disaster response to such events is needed, and accurate data collection and analysis can be sped up through multiple methods such as Bayesian models and Natural Language Processing. 
 
    
-References:
+References:   
 Khalaf, M., Hussain, A. J., Al-Jumeily, D., Baker, T., Keight, R., Lisboa, P., . . . Al Kafri, A. S. (2018, July 8). A Data Science Methodology Based on Machine Learning Algorithms for Flood Severity Prediction. Retrieved October 14, 2020, from https://ieeexplore.ieee.org/document/8477904/authors      
 
 Pollard, J., Spencer, T., & Jude, S. (2018, July 17). Big Data Approaches for coastal flood risk assessment and emergency response. Retrieved October 14, 2020, from https://onlinelibrary.wiley.com/doi/abs/10.1002/wcc.543

@@ -7,9 +7,7 @@ Another method that was looked at utilized Integrating process-based modeling an
 
 One method I found pretty interesting is the "natural language processing of social media." The analysis of tweets posted amid a flood in the UK, US, Pakistan, and the Philippines have helped emergency responders understand the severity and statistics of the flood. This is due to the "temporal (immediate) and spatial (geotagging) relation" of Twitter data. This method has obvious potential for future flooding. The way it works is that "natural language processing" finds certain words that can highlight quantitative data that might otherwise be hard to collect during a flood.  
 
-<p align="center">
-  <src="figure2.png">
-</p>
+![](figure2.png)
  
 Another thing that I found interesting is the Forecasters' Dilemma. This considers the "trade-off" between finding and analyzing data and the need for timely and accurate predictions. As more time is spent analyzing and understanding the data, the more reliable a final output can be, such as evacuation or stay at home order. Though, this can also increase the time in which this decision is too late to take adequate effect. But, if less time is taken and a "false warning" is put out, this can damage trust between society and forecasters; it can lead to a loss of transparency guarantees. This lack of trust can cause problems when decisions are not taken seriously.       
 

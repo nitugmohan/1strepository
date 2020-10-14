@@ -14,3 +14,4 @@ I have a little brother and a dog named Loki. I enjoy reading, running, and cook
 [9/17 Human Development & Data Science Insights](Insight.md)   
 [9/19 Assignment 1](Assignment1.md)   
 [9/29 Kitchin vs. Anderson](AndvsKit.md)
+[10/15 Human Development & Data Science Insights #2](insight2.md)

@@ -1,4 +1,4 @@
-## Lightning Round - Q&A Owen Barder
+## 10/15 Owen Barder - Q&A
 1. How does Owen Barder define development? How does he extend Amartya Sen's definition to include the idea of complexity?    
 
 When looking at Amartya Sen’s definition, he focuses on how it “creates circumstances” for people to have “choices, capabilities, and freedoms.” In his podcast, Owen Barder refers to development as a property of the economic and social system. He says that it is better looked at as “a characteristic of the economic, social, and political system, not simply the sum of the well-being of the people in it”, as Sen might say. At the end of his talk, he says “emergence of systemic change and self‐organising complexity which is what we call development.”   

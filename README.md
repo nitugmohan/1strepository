@@ -17,4 +17,5 @@ I have a little brother and a dog named Loki. I enjoy reading, running, and cook
 [10/15 Human Development & Data Science Insights #2](insight2.md)     
 [10/15 Owen Barder Q&A](barder.md)  
 [10/19 Assignment 2](Assignment2.md)   
-[10/22 CRQ Discussion](CRQResponse.md)
+[10/22 CRQ Discussion](CRQResponse.md)     
+[11/5 In-Class Essay](InClassEssay.md)    

@@ -20,3 +20,4 @@ I have a little brother and a dog named Loki. I enjoy reading, running, and cook
 [10/22 CRQ Discussion](CRQResponse.md)     
 [11/5 In-Class Essay](InClassEssay.md)    
 [11/13 Assignment 3](Assignment3.md)      
+[11/15 Abstract](Abstract.md)      
